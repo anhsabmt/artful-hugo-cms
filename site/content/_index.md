@@ -1,7 +1,7 @@
 ---
 title: "Ready to try Artful Avenues? "
 subtitle: "Create your project today and get your designs tomorrow. It's that simple. "
-image: /img/home-jumbotron.jpg
+image: img/hiw-step-4-graphic.svg
 blurb:
   heading: Why Artful Avenues?
   text: >
@@ -29,7 +29,7 @@ products:
       any
 
       project. Want to change designers without hurt feelings? We make it simple and guilt-free. Easily swap designers on any projects when you don't feel they're the right fit. No hard feelings. No awkward changes.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/hiw-step-4-graphic.svg
     text: >-
       Manage everything on a simple platform. 
 
