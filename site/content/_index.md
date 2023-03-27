@@ -1,35 +1,41 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: "Ready to try Artful Avenues? "
+subtitle: "Create your project today and get your designs tomorrow. It's that simple. "
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Artful Avenues?
-  text: Artful Avenues is the coffee store for everyone who believes that great
-    coffee shouldn't just taste good, it should do good too. We source all of
-    our beans directly from small scale sustainable farmers and make sure part
-    of the profits are reinvested in their communities.
+  text: >
+    Artful Avenues has specialized in custom products, custom apparel, and
+    business forms. If you’re looking to celebrate a special event, promote your
+    business, show support for your organization, or say thank you in a unique
+    way, we can help! We’ve worked with schools, municipalities, churches,
+    performers, and individuals all over the world.
 intro:
-  heading: What we offer
-  text: Artful Avenues is the ultimate spot for coffee lovers who want to learn
-    about their java’s origin and support the farmers that grew it. We take
-    coffee production, roasting and brewing seriously and we’re glad to pass
-    that knowledge to anyone.
+  heading: 120+Design Services 1 Subscription
+  text: Possibly the last design service you'll ever need. Our extensive
+    collection of 120+ services is backed by the world's most talented on-demand
+    design team.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+  - image: img/wp-services-graphic.png
+    text: >-
+      Easily
+
+      swap
+
+      designers
+
+      on
+
+      any
+
+      project. Want to change designers without hurt feelings? We make it simple and guilt-free. Easily swap designers on any projects when you don't feel they're the right fit. No hard feelings. No awkward changes.
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: >-
+      Manage everything on a simple platform. 
+
+      Start creating and managing projects right away on our platform. It's simple enough for everyday users yet sophisticated enough for agencies to scale and even white-label.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Tired of having the wrong designer for the job?
+  text: Our A.I. automatically assigns the best creative for every project,
+    ensuring you'll always have the right talent.
 ---
